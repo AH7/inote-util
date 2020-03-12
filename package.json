@@ -7,7 +7,7 @@
   "license"     : "MIT",
   "author"      : "Intellinote <https://www.intellinote.net/>",
   "dependencies": {
-    "mkdirp"                : "^0.5",
+    "mkdirp"                : "^1.0.0",
     "mmmagic"               : "^0.4",
     "nconf"                 : "^0.8",
     "node-uuid"             : "^1.4.7",
